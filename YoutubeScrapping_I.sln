@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "YoutubeCrapping_I", "YoutubeCrapping_I.pyproj", "{9DC43089-4682-485C-A9EA-C5B6B832893C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC43089-4682-485C-A9EA-C5B6B832893C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC43089-4682-485C-A9EA-C5B6B832893C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472479B3-02A7-4840-BDF9-C1FC1644087D}
+	EndGlobalSection
+EndGlobal
